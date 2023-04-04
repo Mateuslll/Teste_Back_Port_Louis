@@ -1,0 +1,7 @@
+﻿{"número_item": 6, "código_produto": "YY6", "quantidade_produto": 10, "valor_unitário_produto": "15,90"}
+{"número_item": 5, "código_produto": "FM8", "quantidade_produto": 6, "valor_unitário_produto": "19,00"}
+{"número_item": 3, "código_produto": "SS3", "quantidade_produto": 18, "valor_unitário_produto": "15,00"}
+{"número_item": 7, "código_produto": "T19", "quantidade_produto": 7, "valor_unitário_produto": "21,00"}
+{"número_item": 4, "código_produto": "RR7", "quantidade_produto": 21, "valor_unitário_produto": "45,00"}
+{"número_item": 2, "código_produto": "MR5", "quantidade_produto": 15, "valor_unitário_produto": "7,00"}
+{"número_item": 1, "código_produto": "AM9", "quantidade_produto": 66, "valor_unitário_produto": "10,00"}

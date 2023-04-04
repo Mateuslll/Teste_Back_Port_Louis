@@ -1,0 +1,5 @@
+﻿{"número_item": 3, "código_produto": "K73", "quantidade_produto": 110, "valor_unitário_produto": "15,00"}
+{"número_item": 5, "código_produto": "D19", "quantidade_produto": 6, "valor_unitário_produto": "44,00"}
+{"número_item": 4, "código_produto": "SD9", "quantidade_produto": 20, "valor_unitário_produto": "5,40"}
+{"número_item": 2, "código_produto": "M2", "quantidade_produto": 15, "valor_unitário_produto": "17,00"}
+{"número_item": 1, "código_produto": "A99", "quantidade_produto": 39, "valor_unitário_produto": "10,00"}

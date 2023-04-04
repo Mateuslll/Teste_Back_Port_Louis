@@ -1,0 +1,2 @@
+﻿{"id_pedido": 2, "número_item": 1, "quantidade_produto": 5}
+{"id_pedido": 2, "número_item": 3, "quantidade_produto": 90}

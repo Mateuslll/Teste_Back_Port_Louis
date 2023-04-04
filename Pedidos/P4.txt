@@ -1,0 +1,3 @@
+﻿{"número_item": 3, "código_produto": "BR1", "quantidade_produto": 25, "valor_unitário_produto": "23,00"}
+{"número_item": 1, "código_produto": "SF49", "quantidade_produto": 170, "valor_unitário_produto": "5,30"}
+{"número_item": 2, "código_produto": "VR5", "quantidade_produto": 51, "valor_unitário_produto": "90,00"}
